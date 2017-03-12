@@ -19,4 +19,8 @@ the diagram the way we do?
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
-That 
+That helps you to manage what to merge or what to don't and void making a mess in a manually way.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area helps to track the changes of a file for a specific commit, and therefore it helps to keep a best tracking of the changes
