@@ -24,3 +24,11 @@ That helps you to manage what to merge or what to don't and void making a mess i
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	The staging area helps to track the changes of a file for a specific commit, and therefore it helps to keep a best tracking of the changes
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Using git diff --staged.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you want to make a demo of a change or a major change that probably is not approved yet
