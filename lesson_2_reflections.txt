@@ -32,3 +32,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	When you want to make a demo of a change or a major change that probably is not approved yet
+
+How do the diagrams help you visualize the branch structure?
+
+	Now I can realize which is the complete structure of git and how the branches work.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	A single branche with the changes of both and also the commits of each one and also is represented in the diagram in the way we do because that single remaining branch comes from an other two branches.
